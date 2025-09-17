@@ -2,8 +2,9 @@
 
 Blood Bridge is a web-based application designed to "connect blood donors and recipients", raise awareness about blood donation, and make the process more engaging through an "interactive UI and gamification".
 
-
 ---
+<img width="1909" height="868" alt="image" src="https://github.com/user-attachments/assets/ff7a8f9f-b20d-428e-aa6b-183d2f8d5d28" />
+
 
 ## 🚀 Features
 - 🏠 **Home Page** → Navigation to all major sections.  
